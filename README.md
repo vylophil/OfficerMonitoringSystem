@@ -11,10 +11,7 @@ SQL (PHPmyadmin)
 
 ##
 Features
--
 Ability to create,update and delete officers
--
 Nomination of officers
--
 Exporting of officers as EXCEL FILE
--
+
