@@ -5,13 +5,9 @@ This Is a system designed and developed in apache using jpanes to have an intera
 Tools used
 -
 Apache Netbeans
--
 JDK
--
 Java
--
 SQL (PHPmyadmin)
--
 
 ##
 Features
