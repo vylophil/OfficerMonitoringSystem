@@ -10,6 +10,9 @@ Tools used
 
 ##
 Features
--Ability to create,update and delete officers
--Nomination of officers
--Exporting of officers as EXCEL FILE
+-
+Ability to create,update and delete officers
+-
+Nomination of officers
+-
+Exporting of officers as EXCEL FILE
